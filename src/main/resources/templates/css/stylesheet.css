@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+    font-size: 300px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+
+/*body{
+    font-family: 'Pacifico', cursive;
+}*/
+
+.riripacifico{
+    font-family: 'Pacifico', cursive;
+}
